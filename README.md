@@ -10,11 +10,11 @@ To set up the repository and run the marketplace locally, follow the steps:
 
 1) Copy the following command and run it in your local terminal:
 ```bash
-git clone https://github.com/krishansinghal/NFT_MarketPlace
+git clone https://github.com/krishansinghal/NFT_Market_platform
 ```
 2) Go to the Repository:
 ```bash
-cd NFT_MarketPlace
+cd NFT_Market_platform
 ```
 3) open the terminal and Install the require dependencies:
 ```bash
